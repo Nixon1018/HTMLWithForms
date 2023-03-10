@@ -1,6 +1,5 @@
 *{
     font-family: 'poppins',cursive;
-    color: #eee;
 }
 body{
     background-image: url("background.jpg");
@@ -13,6 +12,7 @@ body{
     font-size: 20px;
     background-color: #eeeeee1f;
     /* height: 40px; */
+    color: #eee;
 }
 #form h1{
     font-size: 50px;
@@ -26,7 +26,6 @@ body{
     margin-left: 29px;
     margin-top: 15px;
     background-color: #eee; 
-    border-radius: 20px;
     color: #091358;
     text-align: center;
 }
