@@ -1,0 +1,57 @@
+*{
+    font-family: 'poppins',cursive;;
+    color: #eee;
+}
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+#form{
+    width:300px;
+    margin: 100px auto 0 auto;
+    padding: 40px;
+    font-size: 20px;
+    background-color: #eeeeee1f;
+    /* height: 40px; */
+}
+#form h1{
+    font-size: 50px;
+    text-align: center;
+}
+#form button{
+    padding: 12px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 29px;
+    margin-top: 15px;
+    background-color: #eee; 
+    border-radius: 20px;
+    color: #091358;
+    text-align: center;
+}
+#form input{
+    display:block
+
+}
+.container{
+    margin-top: -94px;
+    height: 730px;
+   padding: 0 7%;
+   background-color: #0000007a;
+}
+#form button:hover{
+    background-color: #091358; 
+    color: #eee;
+}
+#form .error{
+    color:#eee;
+    font-size: 15px;
+
+}
+/* .flex{
+    display: inline flex;
+} */
+.input-control{
+    padding: 8px;
+}
